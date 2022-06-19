@@ -1,4 +1,13 @@
-### Hi there 👋
+<ul>
+<li>👋 Hi, I’m Ivan Ryzhikov</li>
+<li>👀 I’m interested in Java and MYSQL</li>
+<li>🌱 I’m currently learning Java</li>
+<li>🔭 I’m Master of Technical Sciences</li>
+<li>📫 How to reach me nrdr.94@ya.ru</li>
+</ul>
+
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **coollappsus/coollappsus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
