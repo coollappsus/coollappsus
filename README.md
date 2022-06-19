@@ -1,9 +1,14 @@
 <ul>
-<li>👋 Hi, I’m Ivan Ryzhikov</li>
+<li>👋 Hi, I’m <a href="https://github.com/coollappsus">Ivan Ryzhikov</a></li>
 <li>👀 I’m interested in Java and MYSQL</li>
 <li>🌱 I’m currently learning Java</li>
 <li>🔭 I’m Master of Technical Sciences</li>
-<li>📫 How to reach me nrdr.94@ya.ru</li>
+<li>📫 How to reach me: 
+  <ul>
+    <li><a href="mailto:nrdr.94@yandex.ru">Send me mail</a></li>
+    <li>Write me on Telegram +7-952-353-19-01</li>
+    <li><a href="https://vk.com/id15169485">Write me on VK</a></li>
+  </ul>
 </ul>
 
 
