@@ -1,9 +1,8 @@
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-, my name is Ivan</h2>
-<h3><img src="https://media3.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="25px"/> About me</h3>
+<h2>Hi there 👋🏼, my name is Ivan</h2>
+<h3>😉About me</h3>
 I'm a master technical-sciences degree at Marine Technical University, in the future I want to work as a Junior Java Developer, and I love to do something new.
 <h1></h1>
-<h3><img src="https://media1.giphy.com/media/SvLQ270MWY0GpztVjo/giphy.gif" width="25px"/>Skills</h3>
+<h3>💪🏼Skills</h3>
 <div>
     <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java" alt="Java"/>
     <img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=Spring" alt="Spring"/>
@@ -26,6 +25,6 @@ I'm a master technical-sciences degree at Marine Technical University, in the fu
 </div>
 </ul>
 <h1></h1>
-<h3><img src="https://media0.giphy.com/media/J2awouDsf23R2vo2p5/giphy_s.gif" width="25px"/>My Stats</h3>
+<h3>🔥My Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coollappsus&layout=compact&theme=vision-friendly-dark">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=coollappsus&theme=dark&background=000000">
