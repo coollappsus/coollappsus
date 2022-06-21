@@ -20,11 +20,11 @@ Java Developer, and I love to do something new.
     <li>🌱 I’m currently learning Java and Spring</li>
     <li>📫 How to reach me:
 <div>
-    <a href="https://t.me/coollappsus"></a><img 
+    <a href="https://t.me/coollappsus"</a><img 
                 src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram" alt="Telegram"/>
-    <a href="https://vk.com/id15169485"></a><img 
+    <a href="https://vk.com/id15169485"</a><img 
                 src="https://img.shields.io/badge/VK-black?style=for-the-badge&logo=VK" alt="VK"/>
-    <a href="mailto:nrdr.94@yandex.ru"></a><img 
+    <a href="mailto:nrdr.94@yandex.ru"</a><img 
                 src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=e" alt="Mail"/>
 </div>
 </ul>
