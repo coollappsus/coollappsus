@@ -9,6 +9,7 @@ Java Developer, and I love to do something new.
     <img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=Spring" alt="Spring"/>
     <img src="https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=Mysql" alt="MySQL"/>
     <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=Redis" alt="Redis"/>
     <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker" alt="Docker"/>
     <img src="https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=Hibernate" alt="Hibernate"/>
     <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git" alt="Git"/>
