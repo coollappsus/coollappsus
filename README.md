@@ -7,7 +7,8 @@ I love doing and learning something new.
 <div>
     <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java" alt="Java"/>
     <img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=Spring" alt="Spring"/>
-    <img src="https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=GraphQL" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=GraphQL" alt="GraphQL"/>
+    <img src="https://img.shields.io/badge/Oracle-black?style=for-the-badge&logo=Oracle" alt="Oracle"/>
     <img src="https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=Mysql" alt="MySQL"/>
     <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB" alt="MongoDB"/>
     <img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=Redis" alt="Redis"/>
@@ -18,7 +19,7 @@ I love doing and learning something new.
 <h1></h1>
 <h3>📄 Additional Information</h3>
 <ul>
-    <li>🔭 I’m currently working marine engineer</li>
+    <li>🔭 I’m currently working Junior Java Developer</li>
     <li>🌱 I’m currently learning Java and Spring</li>
     <li>📫 How to reach me:
 <div>
