@@ -1,6 +1,6 @@
 <h2>Hi there 👋🏼, my name is Ivan</h2>
 <h3>😉About me</h3>
-I'm a master technical-sciences degree at Marine Technical University, my currently work - Junior Java Developer.
+I'm a master technical-sciences degree at Marine Technical University, my currently work - Java Developer.
 I love doing and learning something new.
 <h1></h1>
 <h3>💪🏼Skills</h3>
